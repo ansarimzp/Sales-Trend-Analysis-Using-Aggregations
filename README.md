@@ -42,8 +42,8 @@ Ranked customers by total purchase value.
 ### 5. 🌍 Sales Trend by Region
 Analyzed sales patterns in each region over time.
 
-### 6. 📅 Monthly Sales for 2023
-Zoomed in on revenue trends specifically for the year 2023.
+### 6. 📅 Monthly Sales for 2015-18
+Zoomed in on revenue trends specifically for the year 2015-18.
 
 ### 7. 📉 Low-Performing Sub-Categories
 Highlighted underperforming product groups for optimization.
